@@ -1,2 +1,2 @@
 # ml
-Machine Learning Samples and Templates
+Machine Learning Examples and Experiments with TensorFlow
